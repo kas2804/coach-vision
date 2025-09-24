@@ -1,0 +1,10 @@
+flask
+flask-cors
+sqlalchemy>=2.0
+alembic
+psycopg2-binary
+python-dotenv
+pydantic
+pandas
+scikit-learn
+joblib
